@@ -11,3 +11,7 @@ curl  --location --request POST 'https://apollo-server-vercel-eight.vercel.app/g
       --header 'Content-Type: application/json' \
       --data-raw '{"query":"{\n    hello\n}","variables":{}}'
 ```
+
+## Credits
+
+https://medium.com/@sppericat/how-to-setup-an-apollo-graphql-server-on-vercel-cc3f2dd72b3e
